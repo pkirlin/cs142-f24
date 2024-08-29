@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data 8
-description: Foundations of Data Science
-author: Data 8 Staff
-email: data8@berkeley.edu
-baseurl: '/sp24' # the subpath of your site, e.g. /blog
-url: 'https://www.data8.org' # the base hostname & protocol for your site, e.g. http://example.com
+title: CS 142
+description: "Computer Science II: Object-Oriented Programming"
+author: Phil Kirlin
+email: kirlinp@rhodes.edu
+baseurl: '/cs142-f24' # the subpath of your site, e.g. /blog
+url: 'https://pkirlin.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: "/data8logo.png"
+logo: "/142logo.png"
 current_week: 14
 
 # Theme settings
@@ -30,10 +30,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Textbook:
-    - 'https://inferentialthinking.com/chapters/intro.html'
-  Feedback Form:
-    - 'https://forms.gle/cyc5JfrhN1s8iTst7'
+  #Textbook:
+  #  - 'https://inferentialthinking.com/chapters/intro.html'
+  #Feedback Form:
+  #  - 'https://forms.gle/cyc5JfrhN1s8iTst7'
   # Ed:
   #   - 'https://edstem.org/us/courses/44018/'
   # Feedback Form:

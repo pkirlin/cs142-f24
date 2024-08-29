@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        int randomNum = (int)(Math.random() * 100);
+        System.out.println("Your random number is " + randomNum);
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Type in a number: ");
+        int guess = scanner.nextInt();
+        System.out.println("You typed in " + guess);
+    }
+}
+

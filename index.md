@@ -6,26 +6,27 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: Data 8 Spring 2024
+  name: Computer Science 142 Fall 2024
 ---
 
-# Data 8: Foundations of Data Science
+# Computer Science 142: Object-Oriented Programming
 
 {: .mb-2 }
-UC Berkeley, Spring 2024
+Fall 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
+<!--
 [Ed](https://www.edstem.org/us/courses/52859/discussion/){: .btn .btn-ed}
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1532352/external_tools/90481){: .btn .btn-bcourses}
 [Gradescope](https://www.gradescope.com/courses/703847){: .btn .btn-gradescope}
 [Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
 [Extensions](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link){: .btn .btn-extensions}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
+-->
 
-
-
+<!--
 ## Announcements
 
 
@@ -33,7 +34,22 @@ UC Berkeley, Spring 2024
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
+-->
 
+## Administrivia
+- Instructor: Phillip Kirlin
+- Office hours: TBA
+- [Canvas page](https://rhodes.instructure.com/courses/7368): Use for grades, online assignment submissions, and assignment solutions.
+- [Syllabus](syllabus/syllabus-142-f24.pdf) and [additional policies](syllabus/additional-policies.pdf).
+- Tutoring hours: *(Begins Sep 8)* Sunday through Thursday evenings, 5-10pm, Briggs 001 
+
+## Resources
+- Textbooks and tutorials: *Introduction to Java* by Liang (textbook), 
+        *Introduction to Programming in Java* by Sedgewick and Wayne (textbook),
+        [official Java tutorials](https://docs.oracle.com/javase/tutorial/), 
+        [Introduction to Programming Using Java](http://math.hws.edu/javanotes/index.html) (free online textbook)
+- Java in the browser: [Repl.it](http://repl.it/new/java), <a href="http://codehs.com">CodeHS</a>, <a href="http://onlinegdb.com">OnlineGDB</a>
+- [Official Java documentation (Java API)](https://docs.oracle.com/en/java/javase/21/docs/api/)
 
 {% assign mods = site.modules | where: 'class', 'Berkeley' %}
 {% assign active-mods = '' | split: '' %}
@@ -53,9 +69,9 @@ UC Berkeley, Spring 2024
 <br />
 
 
-
+<!--
 <p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://forms.gle/64xx2B1Y7K32bNhR9" class="yellow-link">here</a></p>
-
+-->
 
 <script src="assets/darkmode.js"></script>
 <script>
