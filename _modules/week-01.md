@@ -22,5 +22,5 @@ Sep 4
 
 Sep 6
 : Functions
-: *Reading:* Liang chapter 5 (functions)
+: *Reading:* Liang chapter 6 (functions)
 
