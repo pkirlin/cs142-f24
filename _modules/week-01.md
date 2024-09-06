@@ -23,4 +23,5 @@ Sep 4
 Sep 6
 : Functions
 : *Reading:* Liang chapter 6 (functions)
+: *Project 1 assigned:* [Project 1](projects/proj1), due Sep 16
 

@@ -71,7 +71,8 @@ Fall 2024
 
 
 <!--
-<p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://forms.gle/64xx2B1Y7K32bNhR9" class="yellow-link">here</a></p>
+<p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://forms.gle/64xx2B1Y7K32bNhR9" 
+class="yellow-link">here</a></p>
 -->
 
 <script src="assets/darkmode.js"></script>
