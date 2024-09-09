@@ -23,5 +23,10 @@ Sep 4
 Sep 6
 : Functions
 : *Reading:* Liang chapter 6 (functions)
+: *Handouts:* [Functions handout](lectures/intro/functions-handout.pdf)
 : *Project 1 assigned:* [Project 1](projects/proj1), due Sep 16
+
+Sep 9
+: Functions
+: *Handouts:* [Function practice](lectures/intro/functions-practice.pdf)
 
