@@ -39,7 +39,7 @@ Fall 2024
 
 ## Administrivia
 - Instructor: Phillip Kirlin
-- Office hours: TBA
+- Office hours: Mon 12-1:30, Tue 12:30-2, Wed 2-3, Thu 2-3:30.  Also available by appointment.
 - [Canvas page](https://rhodes.instructure.com/courses/7368): Use for grades, online assignment submissions, and assignment solutions.
 - [Syllabus](syllabus/syllabus-142-f24.pdf) and [additional policies](syllabus/additional-policies.pdf).
 - Tutoring hours: *(Begins Sep 8)* Sunday through Thursday evenings, 5-10pm, Briggs 001 
