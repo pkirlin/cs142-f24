@@ -30,3 +30,5 @@ Sep 9
 : Functions
 : *Handouts:* [Function practice](lectures/intro/functions-practice.pdf)
 
+Sep 11
+: Lab 2
