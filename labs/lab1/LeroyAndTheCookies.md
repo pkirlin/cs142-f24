@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Leroy and the Cookies
 
 Team members (edit these):
