@@ -13,7 +13,7 @@ Aug 28
 
 Aug 30
 : Continue Java: if statements, loops
-   : [Code](lectures/intro/randonNumberCode.txt)
+   : [Code](lectures/intro/randomNumberCode.txt)
 : *Reading:* Liang chapter 3 (if statements), chapter 5 (loops)
 : *Handouts:* [while loops](lectures/intro/while-loops-handout.pdf)
 
