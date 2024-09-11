@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        int randomNum = (int)(Math.random() * 100) + 1;
+        System.out.println("Your random number is " + randomNum);
+        Scanner scanner = new Scanner(System.in);
+        int guess = -1;
+        while (guess != randomNum) {
+            System.out.println("Type in a number: ");
+            guess = scanner.nextInt();
+            System.out.println("You typed in " + guess);
+            if (guess > randomNum) {
+                System.out.println("Your guess is too big");
+            } else if (guess < randomNum) {
+                System.out.println("Your guess is too small");
+            } else {
+                System.out.println("You guessed correctly!");
+            }
+        }
+    }
+}

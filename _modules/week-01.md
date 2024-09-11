@@ -13,7 +13,7 @@ Aug 28
 
 Aug 30
 : Continue Java: if statements, loops
-   : [Slides]()
+   : [Code](lectures/intro/randonNumberCode.txt)
 : *Reading:* Liang chapter 3 (if statements), chapter 5 (loops)
 : *Handouts:* [while loops](lectures/intro/while-loops-handout.pdf)
 
@@ -32,6 +32,8 @@ Sep 6
 
 Sep 9
 : Functions
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/functions/FunctionPractice.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/functions/FunctionPractice.java)
 : *Handouts:* [Function practice](lectures/intro/functions-practice.pdf)
 
 Sep 11
