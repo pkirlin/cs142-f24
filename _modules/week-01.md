@@ -15,10 +15,12 @@ Aug 30
 : Continue Java: if statements, loops
    : [Slides]()
 : *Reading:* Liang chapter 3 (if statements), chapter 5 (loops)
+: *Handouts:* [while loops](lectures/intro/while-loops-handout.pdf)
 
 Sep 4
 : Lab 1
 : *Reading:* Liang chapter 5 (loops)
+: *Handouts:* [for loops](lectures/intro/for-loops-handout.pdf)
 
 Sep 6
 : Functions
