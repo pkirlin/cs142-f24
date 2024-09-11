@@ -24,6 +24,8 @@ Sep 4
 
 Sep 6
 : Functions
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/functions/FunctionPractice.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/functions/FunctionPractice.java)
 : *Reading:* Liang chapter 6 (functions)
 : *Handouts:* [Functions handout](lectures/intro/functions-handout.pdf)
 : *Project 1 assigned:* [Project 1](projects/proj1), due Sep 16
