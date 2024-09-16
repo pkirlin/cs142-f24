@@ -38,3 +38,11 @@ Sep 9
 
 Sep 11
 : Lab 2
+
+Sep 13
+: OOP 1
+: *Handouts:* [SimpleCanvas](lectures/oop/simplecanvas-api.pdf) • [OOP defs](lectures/oop/oop-defs.pdf)
+
+Sep 16
+: OOP 2
+: *Handouts:* [Color API](lectures/oop/color-api.pdf)
