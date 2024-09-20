@@ -46,3 +46,9 @@ Sep 13
 Sep 16
 : OOP 2
 : *Handouts:* [Color API](lectures/oop/color-api.pdf)
+
+Sep 18
+: Lab 3
+
+Sep 20
+: OOP "Gotchas"
