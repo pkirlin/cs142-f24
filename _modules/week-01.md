@@ -41,11 +41,15 @@ Sep 11
 
 Sep 13
 : OOP 1
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/oop1/) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/oop1)
 : *Handouts:* [SimpleCanvas](lectures/oop/simplecanvas-api.pdf) • [OOP defs](lectures/oop/oop-defs.pdf)
 : *HW 1 assigned:* [Homework 1](homework/hw1), due Sep 20
 
 Sep 16
 : OOP 2
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/oop1/) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/oop1)
 : *Handouts:* [Color API](lectures/oop/color-api.pdf)
 
 Sep 18
@@ -53,6 +57,8 @@ Sep 18
 
 Sep 20
 : OOP "Gotchas"
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/oop1/Gotchas.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/oop1/Gotchas.java)
 : *Handouts:* [Reference problems](lectures/oop/reference-problems.pdf)
 : *Project 2 assigned:* [Project 2](projects/proj2), due Oct 1
 
