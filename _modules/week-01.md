@@ -42,6 +42,7 @@ Sep 11
 Sep 13
 : OOP 1
 : *Handouts:* [SimpleCanvas](lectures/oop/simplecanvas-api.pdf) • [OOP defs](lectures/oop/oop-defs.pdf)
+: *HW 1 assigned:* [Homework 1](homework/hw1), due Sep 20
 
 Sep 16
 : OOP 2
@@ -52,3 +53,9 @@ Sep 18
 
 Sep 20
 : OOP "Gotchas"
+: *Project 2 assigned:* [Project 2](projects/proj2), due Oct 1
+
+Sep 23
+: Creating Classes I
+: *Reading:* Liang chapter 9.1-9.3, 9.5 (creating classes).
+: *Handouts:* [Creating classes](lectures/oop/oop-creating-classes-handout.pdf)
