@@ -53,6 +53,7 @@ Sep 18
 
 Sep 20
 : OOP "Gotchas"
+: *Handouts:* [Reference problems](lectures/oop/reference-problems.pdf)
 : *Project 2 assigned:* [Project 2](projects/proj2), due Oct 1
 
 Sep 23
