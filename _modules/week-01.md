@@ -66,3 +66,9 @@ Sep 23
 : Creating Classes I
 : *Reading:* Liang chapter 9.1-9.3, 9.5 (creating classes).
 : *Handouts:* [Creating classes](lectures/oop/oop-creating-classes-handout.pdf)
+
+Sep 25
+: Lab 4
+
+Sep 27
+: Creating Classes II
