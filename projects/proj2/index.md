@@ -87,7 +87,7 @@ written for you.
 - `SimpleCanvas.java` is the SimpleCanvas code that you don't need to worry about.
 - `AnimationDemo.java` is a demonstration on using the `pause()` method in `SimpleCanvas`
 to make an animation.  You will probably want to use `pause()` when you start implementing
-the gravity part of the project, so you can use this as an example.
+parts of the project where a balloon floats to the top, so you can use this as an example.
 
 ## Guide to the project
 
@@ -211,10 +211,10 @@ test functions from main.
 You must write test functions for `hasMatchingNeighbor()`, `canMoveUp()` and `spreadMarked()`.  Additional
 test functions are highly recommended, but not required.
 
-For instance, to test `gravity()`, you might write this:
+For instance, to test `canMoveUp()`, you might write this:
 
 ```java
-public static void testGravity()
+public static void testCanMoveUp()
 {
 	int[][] board1 = 
 		{ {1, 3, 2, 1},
