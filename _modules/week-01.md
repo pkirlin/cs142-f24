@@ -89,6 +89,7 @@ Sep 30
 
 Oct 2
 : Lab 5
+: *HW 1 assigned:* [Homework 2](homework/hw2), due Oct 7
 
 Oct 4
 : **OO Design Practices**
@@ -96,4 +97,5 @@ Oct 4
 	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/fraction)
 : Designing a `Fraction` class
 : *Handouts:* [Fraction instructions](lectures/oop/fraction-class-handout.pdf)
+
 
