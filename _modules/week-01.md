@@ -63,20 +63,37 @@ Sep 20
 : *Project 2 assigned:* [Project 2](projects/proj2), due Oct 1
 
 Sep 23
-: Creating Classes I
-: *Reading:* Liang chapter 9.1-9.3, 9.5 (creating classes).
+: **Creating Classes I**
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/oop1/) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/oop1)
+: Learning how to design simple classes.
+: *Reading:* Liang chapter 9.1-9.3, 9.5 (creating classes)
 : *Handouts:* [Creating classes](lectures/oop/oop-creating-classes-handout.pdf)
 
 Sep 25
 : Lab 4
 
+Sep 27
+: **Creating Classes II**
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/oop1/) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/oop1)
+: `public` and `private`
+: *Reading:* Liang 9.8 (public/private)
+
 Sep 30
-: Creating Classes II
+: **Creating Classes III**
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/oop1/) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/oop1)
+: Constructors
+: **Reading:** Liang 9.4 (constructors)
 
 Oct 2
 : Lab 5
 
 Oct 4
 : **OO Design Practices**
-: Designing a Fraction class
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/fraction) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/fraction)
+: Designing a `Fraction` class
+: *Handouts:* [Fraction instructions](lectures/oop/fraction-class-handout.pdf)
 
