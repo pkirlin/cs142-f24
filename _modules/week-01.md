@@ -77,6 +77,6 @@ Oct 2
 : Lab 5
 
 Oct 4
-: OO Design Practices
-Designing a Fraction class
+: **OO Design Practices**
+: Designing a Fraction class
 
