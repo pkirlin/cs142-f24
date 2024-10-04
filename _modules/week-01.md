@@ -89,7 +89,7 @@ Sep 30
 
 Oct 2
 : Lab 5
-: *HW 1 assigned:* [Homework 2](homework/hw2), due Oct 7
+: *HW 2 assigned:* [Homework 2](homework/hw2), due Oct 7
 
 Oct 4
 : **OO Design Practices**
