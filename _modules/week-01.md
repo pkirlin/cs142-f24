@@ -70,5 +70,13 @@ Sep 23
 Sep 25
 : Lab 4
 
-Sep 27
+Sep 30
 : Creating Classes II
+
+Oct 2
+: Lab 5
+
+Oct 4
+: OO Design Practices
+Designing a Fraction class
+
