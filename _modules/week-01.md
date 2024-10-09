@@ -98,4 +98,17 @@ Oct 4
 : Designing a `Fraction` class
 : *Handouts:* [Fraction instructions](lectures/oop/fraction-class-handout.pdf)
 
+Oct 7
+: **Review for Midterm I**
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/midterm1/MidtermPractice.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/midterm1/MidtermPractice.java)
+: *Handouts:* [In-class practice](lectures/midterm1prep/midterm1-prac-inclass.pdf) • [After-class practice](lectures/midterm1prep/midterm1-prac-additional.pdf)
 
+Oct 9
+: **Midterm I**
+
+Oct 11
+: **OO Design Practices**
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/fraction) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/fraction)
+: More practice with the `Fraction` class
