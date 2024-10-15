@@ -373,14 +373,14 @@ and it should reproduce the video at the top of this project.
 - Through Canvas, turn in all your `.java` files.  
 Additionally, upload a text file answering the following questions:
 
-1. What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
-2. Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises, 
-but do include any help from other sources, such as websites or people (including classmates and friends) 
-and attribute them by name.
-3. Describe any serious problems you encountered while writing the program.
-4. Did you do any of the challenges (see below)? If so, explain what you did.
-5. List any other feedback you have. Feel free to provide any feedback on how much you 
-learned from doing the assignment, and whether you enjoyed doing it.
+-   What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
+- Describe any serious problems you encountered while writing the program (larger things than the previous question).
+-   Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises, but do include any help from other sources, 
+such as websites or people (including classmates and friends) and attribute them by name.
+-   Did you do any of the challenges (see below)? If so, explain what you did.
+-   List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment, and whether you enjoyed 
+doing it.
+
 
 
     
