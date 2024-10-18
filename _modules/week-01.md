@@ -112,3 +112,13 @@ Oct 11
 	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/fraction) •
 	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/fraction)
 : More practice with the `Fraction` class
+
+Oct 14
+: **ArrayLists, Strings, File Reading**
+
+Oct 16
+: **Lab 6**
+
+Oct 18
+: **ArrayLists, Strings, File Reading, Part II**
+: *Handouts:* [ArrayLists](lectures/arraylist-str/arraylists-handout.pdf) • [Strings](lectures/arraylist-str/strings-handout.pdf) • [File reading](lectures/arraylist-str/file-reading.pdf) • [Practice](lectures/arraylist-str/practice.pdf)
