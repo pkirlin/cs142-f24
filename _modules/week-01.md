@@ -121,4 +121,4 @@ Oct 16
 
 Oct 18
 : **ArrayLists, Strings, File Reading, Part II**
-: *Handouts:* [ArrayLists](lectures/arraylist-str/arraylists-handout.pdf) • [Strings](lectures/arraylist-str/strings-handout.pdf) • [File reading](lectures/arraylist-str/file-reading.pdf) • [Practice](lectures/arraylist-str/practice.pdf)
+: *Handouts:* [ArrayLists](lectures/arraylists-str/arraylists-handout.pdf) • [Strings](lectures/arraylists-str/strings-handout.pdf) • [File reading](lectures/arraylists-str/file-reading.pdf) • [Practice](lectures/arraylists-str/practice.pdf)
