@@ -115,6 +115,7 @@ Oct 11
 
 Oct 14
 : **ArrayLists, Strings, File Reading**
+: *Project 3 assigned:* [Project 3](projects/proj3), due Oct 28
 
 Oct 16
 : **Lab 6**
@@ -122,6 +123,7 @@ Oct 16
 Oct 18
 : **ArrayLists, Strings, File Reading, Part II**
 : *Handouts:* [ArrayLists](lectures/arraylists-str/arraylists-handout.pdf) • [Strings](lectures/arraylists-str/strings-handout.pdf) • [File reading](lectures/arraylists-str/file-reading.pdf) • [Practice](lectures/arraylists-str/practice.pdf)
+: *Reading:* Liang 11.11 (ArrayLists), 4.4 and 10.10 (strings).
 
 Oct 21
 : **Fall break**
@@ -131,6 +133,9 @@ Oct 23
 
 Oct 25
 : **Recursion I**
+   : [Slides](lectures/recursion/recursion-1-slides.pdf) • [Code](lectures/intro/day1code.txt)
+: *Handouts:* [Recursion handout](lectures/recursion/recursion-handout.pdf)
+: *Reading*: Liang 18.1-18.2 (recursion intro).
 
 Oct 28
 : **Recursion II**
