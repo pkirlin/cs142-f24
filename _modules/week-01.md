@@ -122,3 +122,52 @@ Oct 16
 Oct 18
 : **ArrayLists, Strings, File Reading, Part II**
 : *Handouts:* [ArrayLists](lectures/arraylists-str/arraylists-handout.pdf) • [Strings](lectures/arraylists-str/strings-handout.pdf) • [File reading](lectures/arraylists-str/file-reading.pdf) • [Practice](lectures/arraylists-str/practice.pdf)
+
+Oct 21
+: **Fall break**
+
+Oct 23
+
+Oct 25
+
+Oct 28
+
+Oct 30
+
+Nov 1
+
+Nov 4
+
+Nov 6
+
+Nov 8
+
+Nov 11
+
+Nov 13
+
+Nov 15
+
+Nov 18
+
+Nov 20
+
+Nov 22
+
+Nov 25
+
+Nov 27
+: **Thanksgiving break**
+
+Nov 29
+: **Thanksgiving break**
+
+Dec 2
+
+Dec 4
+
+Dec 6
+
+Dec 9
+
+Dec 11
