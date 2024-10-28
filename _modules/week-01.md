@@ -127,34 +127,49 @@ Oct 21
 : **Fall break**
 
 Oct 23
+: **TBA**
 
 Oct 25
+: **TBA**
 
 Oct 28
+: **TBA**
 
 Oct 30
+: **TBA**
 
 Nov 1
+: **TBA**
 
 Nov 4
+: **TBA**
 
 Nov 6
+: **TBA**
 
 Nov 8
+: **TBA**
 
 Nov 11
+: **TBA**
 
 Nov 13
+: **TBA**
 
 Nov 15
+: **TBA**
 
 Nov 18
+: **TBA**
 
 Nov 20
+: **TBA**
 
 Nov 22
+: **TBA**
 
 Nov 25
+: **TBA**
 
 Nov 27
 : **Thanksgiving break**
@@ -163,11 +178,16 @@ Nov 29
 : **Thanksgiving break**
 
 Dec 2
+: **TBA**
 
 Dec 4
+: **TBA**
 
 Dec 6
+: **TBA**
 
 Dec 9
+: **TBA**
 
 Dec 11
+: **TBA**
