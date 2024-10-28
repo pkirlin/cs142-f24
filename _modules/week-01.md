@@ -127,19 +127,19 @@ Oct 21
 : **Fall break**
 
 Oct 23
-: **TBA**
+: **Lab 7**
 
 Oct 25
-: **TBA**
+: **Recursion I**
 
 Oct 28
-: **TBA**
+: **Recursion II**
 
 Oct 30
-: **TBA**
+: **Lab 8**
 
 Nov 1
-: **TBA**
+: **Recursion III**
 
 Nov 4
 : **TBA**
