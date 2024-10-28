@@ -144,6 +144,9 @@ Oct 25
 
 Oct 28
 : **Recursion II**
+	:  [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/recursion/Recursion2.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/recursion/Recursion2.java)
+: *Reading*: Liang 18.3 (recursion continued). Pay special attention to Figures 18.2 and 18.3 on page 722; these are important to understand.
 
 Oct 30
 : **Lab 8**
