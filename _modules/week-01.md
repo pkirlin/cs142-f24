@@ -133,7 +133,8 @@ Oct 23
 
 Oct 25
 : **Recursion I**
-   : [Slides](lectures/recursion/recursion-1-slides.pdf) • [Code](lectures/intro/day1code.txt)
+   : [Slides](lectures/recursion/recursion-1-slides.pdf) • : [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/recursion/Recursion1.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/recursion/Recursion1.java)
 : *Handouts:* [Recursion handout](lectures/recursion/recursion-handout.pdf)
 : *Reading*: Liang 18.1-18.2 (recursion intro).
 
