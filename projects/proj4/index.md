@@ -15,7 +15,7 @@ Every year, Farmer Phil creates a corn maze for the local Memphians to navigate 
 
 For example, suppose you have this maze:
 
-<img src="themaze-pre.png"">
+<img src="themaze-pre.png">
 
 The green circle indicates the starting location, the red circle indicates the ending location, and the numbers along the sides indicate how many squares in that particular row or column must be filled as the person solves the maze.
 
