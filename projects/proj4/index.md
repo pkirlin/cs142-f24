@@ -124,13 +124,13 @@ The idea is to make (up to) four recursive calls, from each of the four squares 
 
 To solve this problem, the person in the maze says, "Am I currently located in the ending square AND are all the row/col counters zero?" (the base case). If so, then we are done (success!). If the person is not located where the ending square is, the person will try to take one step north, and try to solve the maze recursively from that new location. If that didn't work, it will try to take one step south, and try to solve the maze recursively from that location. It will do the same thing for east and west. If one of those four recursive cases succeeds in solving the maze, then we are done (also success!). If none of the recursive cases solves the maze, then we are done (but with failure).
 
-[ [See an example of how the recursive formulation works on a sample maze.](rec1) ]
+
 
 **Formulation 2: What are the precise directions to solve the maze?**  The first formulation works, but the problem is is only returns success or failure, not the path taken through the maze.
 
 To remedy this, let's change our recursive formulation to return strings rather than success or failure. Each string will represent the path through the maze from the starting location to the cup: we'll use "N", "S", "E", and "W" for the four cardinal directions, and "C" for the cup. If a path can't be found, we'll use "X" for failure.
 
-[ [See an example of how the recursive formulation works on a sample maze.](rec2) ]
+
 
 Your program will implement both recursive formulations.
 
