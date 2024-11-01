@@ -146,13 +146,13 @@ As mentioned above, when solving the maze, we must make sure never to construct 
 
 When you are considering adding a new square to a path, the new square must of course be open.  However, there are *five* additional squares that must be checked relative to the new square.  See the following diagram:
 
-<img src=testing-squares.png width=300>
+<img src="testing-squares.png" width=300>
 
 This picture shows a possible path from the green circle.  For this example, ignore the row/col counters.  Suppose we are considering adding the cell with the question mark to the end of the path.  We must verify that the five cells with X's are either **open** or **off the board**.  Those particular five cells are the adjacent and diagonally-adjacent cells to the question mark.
 
 This works even when the path turns; see this diagram.
 
-<img src=testing-squares2.png width=300>
+<img src="testing-squares2.png" width=300>
 
 To help you implement this, the starter code has functions to fill in called `isOpen` and `isOpenOrOffBoard`.  Each of these functions takes a (row, col) coordinate:
 -   `isOpen` should return true if the (row, col) is open on the board, and false in all other cases (including if the (row, col) is off the board).  
