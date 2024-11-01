@@ -1,0 +1,23 @@
+Enter a filename: maze1.txt
+Enter a pause time: 0
+Do you want to run (1) the boolean solver or (2) the directional solver? 2
+#####
+## ##
+#CH #
+## ##
+#####
+Patronus has arrived at 2 2
+Patronus has arrived at 1 2
+Patronus is backtracking from 1 2
+Patronus has arrived at 3 2
+Patronus is backtracking from 3 2
+Patronus has arrived at 2 3
+Patronus is backtracking from 2 3
+Patronus has arrived at 2 1
+The solution is W and has 1 steps.
+There were 5 total calls.
+#####
+## ##
+#C. #
+## ##
+#####

@@ -1,0 +1,48 @@
+Enter a filename: maze3.txt
+Enter a pause time: 20
+Do you want to run (1) the boolean solver or (2) the directional solver? 1
+############
+###   #   ##
+#   #   #  #
+### ### ####
+##  ##  ##H#
+###  C#    #
+############
+Patronus has arrived at 4 10
+Patronus has arrived at 5 10
+Patronus has arrived at 5 9
+Patronus has arrived at 5 8
+Patronus has arrived at 5 7
+Patronus has arrived at 4 7
+Patronus has arrived at 3 7
+Patronus has arrived at 2 7
+Patronus has arrived at 1 7
+Patronus has arrived at 1 8
+Patronus has arrived at 1 9
+Patronus has arrived at 2 9
+Patronus has arrived at 2 10
+Patronus is backtracking from 2 10
+Patronus is backtracking from 2 9
+Patronus is backtracking from 1 9
+Patronus is backtracking from 1 8
+Patronus is backtracking from 1 7
+Patronus has arrived at 2 6
+Patronus has arrived at 2 5
+Patronus has arrived at 1 5
+Patronus has arrived at 1 4
+Patronus has arrived at 1 3
+Patronus has arrived at 2 3
+Patronus has arrived at 3 3
+Patronus has arrived at 4 3
+Patronus has arrived at 5 3
+Patronus has arrived at 5 4
+Patronus has arrived at 5 5
+The maze can be solved.
+There were 24 total calls.
+############
+###...#   ##
+#  .#...#  #
+###.###.####
+## .## .##.#
+###..C#....#
+############

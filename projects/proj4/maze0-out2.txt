@@ -1,0 +1,20 @@
+Enter a filename: maze0.txt
+Enter a pause time: 0
+Do you want to run (1) the boolean solver or (2) the directional solver? 2
+####
+# ##
+# C#
+#H##
+####
+Patronus has arrived at 3 1
+Patronus has arrived at 2 1
+Patronus has arrived at 1 1
+Patronus is backtracking from 1 1
+Patronus has arrived at 2 2
+The solution is NE and has 2 steps.
+There were 4 total calls.
+####
+# ##
+#.C#
+#.##
+####
