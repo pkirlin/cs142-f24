@@ -70,6 +70,7 @@ Because this maze has no walls, we must place certain restrictions on the soluti
 - The path can only use each square at most once (so the path can't cross itself, for instance).
 - If a square is used as part of a path, no adjacent square may be used, not even a diagonal square.
   For instance the following path is illegal:
+  
   ```
   * * * * 
   . . . *
@@ -78,7 +79,8 @@ Because this maze has no walls, we must place certain restrictions on the soluti
   ```
   because it is impossible to tell in the bottom right corner what the "true" path is,
   This is also illegal:
-    ```
+
+  ```
   . * * * 
   * * . *
   . . * *
