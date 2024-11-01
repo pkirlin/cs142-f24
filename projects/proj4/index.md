@@ -15,13 +15,13 @@ Every year, Farmer Phil creates a corn maze for the local Memphians to navigate 
 
 For example, suppose you have this maze:
 
-<img src="themaze-pre.png">
+<img src="themaze-pre.png" width=300>
 
 The green circle indicates the starting location, the red circle indicates the ending location, and the numbers along the sides indicate how many squares in that particular row or column must be filled as the person solves the maze.
 
 Here is the solution:
 
-<img src="themaze.png">
+<img src="themaze.png" width=300>
 
 Notice how the numbers along the sides of the maze match the number of cells filled in in that particular row or column.  Any other path between the green and red cells would have a different number of cells in some row or column, and so would not be a solution to this particular maze.
 
@@ -29,7 +29,7 @@ In this project, you will write a program to open a text file containing a descr
 
 ## Demo
 
-<video controls width=300>
+<video controls width=600>
   <source src="demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
