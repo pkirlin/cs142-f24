@@ -1,0 +1,102 @@
+Enter a filename: maze2.txt
+Enter a pause time: 20
+Do you want to run (1) the boolean solver or (2) the directional solver? 1
+.....
+.....
+.....
+.....
+.....
+You arrive at 0 0
+You arrive at 1 0
+You arrive at 2 0
+You arrive at 3 0
+You arrive at 3 1
+You arrive at 4 1
+You arrive at 4 2
+You arrive at 4 3
+You arrive at 4 4
+You backtrack from 4 4
+You backtrack from 4 3
+You backtrack from 4 2
+You backtrack from 4 1
+You backtrack from 3 1
+You backtrack from 3 0
+You arrive at 2 1
+You arrive at 3 1
+You arrive at 4 1
+You arrive at 4 2
+You arrive at 4 3
+You arrive at 3 3
+You backtrack from 3 3
+You arrive at 4 4
+You arrive at 3 4
+You arrive at 2 4
+You arrive at 2 3
+You backtrack from 2 3
+You backtrack from 2 4
+You backtrack from 3 4
+You backtrack from 4 4
+You backtrack from 4 3
+You backtrack from 4 2
+You arrive at 4 0
+You backtrack from 4 0
+You backtrack from 4 1
+You arrive at 3 2
+You arrive at 4 2
+You arrive at 4 3
+You arrive at 4 4
+You backtrack from 4 4
+You backtrack from 4 3
+You backtrack from 4 2
+You backtrack from 3 2
+You backtrack from 3 1
+You arrive at 2 2
+You backtrack from 2 2
+You backtrack from 2 1
+You backtrack from 2 0
+You backtrack from 1 0
+You arrive at 0 1
+You arrive at 1 1
+You arrive at 2 1
+You arrive at 2 2
+You backtrack from 2 2
+You arrive at 2 0
+You arrive at 3 0
+You arrive at 4 0
+You backtrack from 4 0
+You backtrack from 3 0
+You backtrack from 2 0
+You backtrack from 2 1
+You backtrack from 1 1
+You arrive at 0 2
+You arrive at 1 2
+You arrive at 2 2
+You backtrack from 2 2
+You backtrack from 1 2
+You arrive at 0 3
+You arrive at 1 3
+You backtrack from 1 3
+You arrive at 0 4
+You arrive at 1 4
+You arrive at 2 4
+You arrive at 3 4
+You arrive at 4 4
+You arrive at 4 3
+You arrive at 4 2
+You arrive at 3 2
+You backtrack from 3 2
+You arrive at 4 1
+You arrive at 3 1
+You backtrack from 3 1
+You arrive at 4 0
+You arrive at 3 0
+You arrive at 2 0
+You arrive at 2 1
+You arrive at 2 2
+The maze can be solved.
+There were 52 total calls.
+*****
+....*
+***.*
+*...*
+*****

@@ -1,0 +1,22 @@
+Enter a filename: maze0.txt
+Enter a pause time: 20
+Do you want to run (1) the boolean solver or (2) the directional solver? 2
+...
+...
+...
+You arrive at 0 0
+You arrive at 1 0
+You backtrack from 1 0
+You arrive at 0 1
+You arrive at 1 1
+You backtrack from 1 1
+You arrive at 0 2
+You arrive at 1 2
+You arrive at 2 2
+You arrive at 2 1
+You arrive at 2 0
+The solution is EESSWW and has 6 steps.
+There were 9 total calls.
+***
+..*
+***

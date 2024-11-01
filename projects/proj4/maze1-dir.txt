@@ -1,0 +1,33 @@
+Enter a filename: maze1.txt
+Enter a pause time: 20
+Do you want to run (1) the boolean solver or (2) the directional solver? 2
+...
+...
+...
+...
+You arrive at 0 2
+You arrive at 1 2
+You arrive at 1 1
+You arrive at 2 1
+You arrive at 3 1
+You arrive at 3 0
+You backtrack from 3 0
+You backtrack from 3 1
+You backtrack from 2 1
+You backtrack from 1 1
+You backtrack from 1 2
+You arrive at 0 1
+You arrive at 1 1
+You arrive at 2 1
+You backtrack from 2 1
+You arrive at 1 0
+You arrive at 2 0
+You arrive at 3 0
+You arrive at 3 1
+You arrive at 3 2
+The solution is WSWSSEE and has 7 steps.
+There were 14 total calls.
+.**
+**.
+*..
+***
