@@ -29,8 +29,8 @@ In this project, you will write a program to open a text file containing a descr
 
 ## Demo
 
-<video controls>
-  <source src="demo.mp4" type="video/mp4" width="300">
+<video controls width=300>
+  <source src="demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
