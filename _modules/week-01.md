@@ -153,12 +153,20 @@ Oct 30
 
 Nov 1
 : **Recursion III**
+	: [Slides](lectures/recursion/recursion-1-slides.pdf) • [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/recursion/Recursion3.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/recursion/Recursion3.java)
+: Recursive functions with arrays
+: *Handouts*: [Recursion with arrays handout](https://pkirlin.github.io/cs142-f24/lectures/recursion/recursion-with-arrays.pdf)
 
 Nov 4
-: **TBA**
+: **Recursion IV**
+	: [Slides](lectures/recursion/day4-binsearch-slides.pdf) • [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/recursion/BinarySearch.java) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/recursion/BinarySearch.java)
+: Binary search algorithm
+: *Handouts:* [Binary search](lectures/recursion/binsearch-handout.pdf)
 
 Nov 6
-: **TBA**
+: **Lab 9**
 
 Nov 8
 : **TBA**
