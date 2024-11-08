@@ -169,7 +169,11 @@ Nov 6
 : **Lab 9**
 
 Nov 8
-: **TBA**
+: **Inheritance I**
+	: [Slides](lectures/inheritance/day1-inherit-slides.pdf) • [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/inherit1) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/inherit1)
+: *Handouts:* [Inheritance handout](lectures/inheritance/inheritance-handout.pdf)
+: *Reading*: Liang 11.1-11.2 (inheritance)
 
 Nov 11
 : **TBA**
