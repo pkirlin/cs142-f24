@@ -23,7 +23,10 @@ When you're all done, paste your CodeCheck ID into the Canvas assignment and sub
 ## Problems 4 and 5:
 
 - Problem 4:
-  Given blah blah
+  Using the class code for binary search [linked here](https://pkirlin.github.io/cs142-f24/lectures/recursion/binsearch-handout.pdf),
+  draw a recursion diagram for running the recursive version of binary search on the array `[7, 12, 18, 20, 25, 36, 39, 42]` with
+  key of `39`.  The diagram should clearly show all recursive calls to the function, plus the values for `low`, `high`, and `mid`
+  as the search progresses.
 
 - Problem 5:
   Given blah blah
