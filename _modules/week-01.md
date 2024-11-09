@@ -157,6 +157,7 @@ Nov 1
 	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/recursion/Recursion3.java)
 : Recursive functions with arrays
 : *Handouts*: [Recursion with arrays handout](https://pkirlin.github.io/cs142-f24/lectures/recursion/recursion-with-arrays.pdf)
+: *Project 4 assigned:* [Project 4](projects/proj4), due Nov 12
 
 Nov 4
 : **Recursion IV**
@@ -174,6 +175,7 @@ Nov 8
 	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/inherit1)
 : *Handouts:* [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf)
 : *Reading*: Liang 11.1-11.2 (inheritance)
+: *HW 3 assigned:* [Homework 3](hw/hw3), due Nov 15
 
 Nov 11
 : **TBA**
