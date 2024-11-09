@@ -22,6 +22,9 @@ When you're all done, paste your CodeCheck ID into the Canvas assignment and sub
 
 ## Problems 4 and 5:
 
-4. blah blah
+- Problem 4:
+  Given blah blah
 
-5. blah blah
+- Problem 5:
+  Given blah blah
+
