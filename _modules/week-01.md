@@ -175,7 +175,7 @@ Nov 8
 	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/inherit1)
 : *Handouts:* [Inheritance handout](lectures/inheritance/Inheritance-handout.pdf)
 : *Reading*: Liang 11.1-11.2 (inheritance)
-: *HW 3 assigned:* [Homework 3](hw/hw3), due Nov 15
+: *HW 3 assigned:* [Homework 3](homework/hw3), due Nov 15
 
 Nov 11
 : **TBA**
