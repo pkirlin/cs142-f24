@@ -128,7 +128,9 @@ To solve this problem, the person in the maze says, "Am I currently located in t
 
 **Formulation 2: What are the precise directions to solve the maze?**  The first formulation works, but the problem is is only returns success or failure, not the path taken through the maze.
 
-To remedy this, let's change our recursive formulation to return strings rather than success or failure. Each string will represent the path through the maze from the starting location to the cup: we'll use "N", "S", "E", and "W" for the four cardinal directions, and "C" for the cup. If a path can't be found, we'll use "X" for failure.
+To remedy this, let's change our recursive formulation to return strings rather than success or failure. Each string will 
+represent the path through the maze from the starting location to the ending location: we'll use "N", "S", "E", and "W" 
+for the four cardinal directions. If a path can't be found, we'll use "X" for failure.
 
 
 
@@ -138,7 +140,7 @@ Your program will implement both recursive formulations.
 
 In the code, the maze is represented by a 2-dimensional char array.  This array initially begins as all periods (`'.'`).  We will "mark" squares in the array with asterisks/stars `'*'` when we arrive at a square, indicating it is part of the current path. When we are evaluating the surrounding directions to recurse on, we must make sure never to recurse on a square of the maze with a breadcrumb in it.  This will prevent us from walking in circles. 
 
-An asterisk is placed in a square at the beginning of each recursive function. It is only removed if we need to backtrack, and therefore, when the algorithm finds the ending location, we can be guaranteed that there will be a single trail of asterisks from start to finish.  If your code determines that the recursion fails in all four possible directions, the marker turned back into a period `'..'` character.
+An asterisk is placed in a square at the beginning of each recursive function. It is only removed if we need to backtrack, and therefore, when the algorithm finds the ending location, we can be guaranteed that there will be a single trail of asterisks from start to finish.  If your code determines that the recursion fails in all four possible directions, the marker turned back into a period `'.'` character.
 
 ### Determining if a step is legal
 
@@ -211,12 +213,17 @@ See the video earlier for a demo; the demo uses the directional solver, but the 
 
 ###  Step 4: Get the directional solver working
 
-In this step, we will write the second recursive formulation of the problem, which determines *how* the maze can be solved.  This is done by implementing the 2 versions of directionalSolve().  These two functions work similarly so the two canSolve functions.  The only major difference is that instead of returning a boolean, they return a string, consisting of directions from the starting location to the cup.  Each direction is a character: N (north), S (south), E (east), or W (west).
+In this step, we will write the second recursive formulation of the problem, which determines *how* the maze can be solved.  
+This is done by implementing the 2 versions of directionalSolve().  These two functions work similarly so the two canSolve 
+functions.  The only major difference is that instead of returning a boolean, they return a string, consisting of 
+directions from the starting location to the ending location.  Each direction is a character: N (north), S (south), E 
+(east), or W (west).
 
 - Write these two functions, following the guidance in the code.  The only hard part is changing the code to work with string answers instead of boolean answers.
 
 - **Stop and test**.  At this point you should test your maze solver against the examples in the section below.
-  Verify that the printing of the maze, calls to the patronus entering and backtracking, and the final number of calls matches mine.
+  Verify that the printing of the maze, calls to arriving and backtracking, and the final number of calls matches 
+mine.
 
 ## Sample output
 
