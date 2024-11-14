@@ -58,7 +58,7 @@ therefore, have no bodies.  Any class that subclasses the interface must impleme
 the methods in the interface.  This is called
 "implementing" the interface rather than "extending" it --- "extending" is only used for classes.  
 
-### Summary so far:
+### Comparison of inheritance variations
 
 - "Regular" inheritance: Imagine you have a class A that is not abstract.  Class B then extends class A.  Class B may choose to override any methods it wants in class A.
 
