@@ -31,9 +31,46 @@ You can download the starter code for this assignment by creating a new IntelliJ
 https://github.com/pkirlin/cs142-f24-proj5
 ```
 
-## Concepts in this program
+## Concepts examined in this program
 
-You will mainly be practicing with inheritance, polymorphism, and abstract classes in this project.
+This project is designed to reinforce your understanding of the OOP concept of 
+inheritance.  There are a few additional concepts that this project uses that will
+be covered in class soon, but deserve a little explanation of how they are used in this
+project
+
+### Abstract methods and classes
+
+In Java, a class may be marked as "abstract."  We will talk about abstract classes 
+more fully during class time, but all you have to know for this project is that when
+a class is marked as abstract, it means that there are certain methods within the class
+(also marked as abstract) that *must* be overridden by any subclasses that extend
+the abstract class.  Normally, when a derived class extends a base class, the derived
+may *choose* to override any methods it wants to, but it is not *forced* to override
+any methods.  An abstract class specifies that one or more methods (those with
+the `abstract` keyword) *must* be overriden by any derived class.  Abstract methods
+in the base class also do not have any code written for them (they have no bodies); they simply have a semicolon
+after the function definition line, not even curly braces.  
+
+### Interfaces
+
+In Java, an interface is like a class, but *all* of the methods in the interface are automatically abstract, and
+therefore, have no bodies.  Any class that subclasses the interface must implement *all*
+the methods in the interface.  This is called
+"implementing" the interface rather than "extending" it --- "extending" is only used for classes.  
+
+### Summary so far:
+
+- "Regular" inheritance: Imagine you have a class A that is not abstract.  Class B then extends class A.  Class B may choose to override any methods it wants in class A.
+
+- Abstract classes: Imagine you have a class A that has some methods marked as `abstract`
+(and therefore have no bodies).
+Class A itself is therefore also marked as `abstract`.  Class B then extends class A.
+Class B must implement all of the abstract methods from class A.  It may override any
+other methods it wants.
+
+- Interfaces: Imagine you have an interface A.  Interface A, because it's an interface,
+will have some methods in it, but none of them will have bodies.  Class B then implements
+interface A.  Class B must implement all of the methods from interface A.
 
 ### Enumerated types
 
@@ -42,6 +79,8 @@ In Java, an enumerated type (called an `enum`) is a special kind of data type (l
 We use two enums in this project: Directions and DanceSteps.  Open up those files and take a look at them.  You don't need to really understand the syntax, but just know that whenever you define a Direction variable, it must be set to one of `Direction.NORTH`, `Direction.SOUTH`, `Direction.EAST`, and `Direction.WEST`.  There are no other possible directions, which makes sense.  The direction `enum` also has some instance variables and methods, but you will most likely not have to know about them or call them.
 
 Similarly for the DanceStep class, a DanceStep variable may only be set to one of the seven possible dance steps listed in that class.
+
+## A tour through the starter code 
 
 ### The `DancingBug` class
 
