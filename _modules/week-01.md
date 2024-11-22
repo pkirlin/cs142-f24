@@ -178,25 +178,33 @@ Nov 8
 : *HW 3 assigned:* [Homework 3](homework/hw3), due Nov 15
 
 Nov 11
-: **TBA**
+: **Inheritance II**
 
 Nov 13
-: **TBA**
+: **Lab 10**
+: *Project 5 assigned:* [Project 5](projects/proj5), due Nov 23
 
 Nov 15
-: **TBA**
+: **Polymorphism**
+	: [Slides](lectures/inheritance/day1-inherit-slides.pdf) • [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/poly1) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/poly1)
+: *Handouts:* [Polymorphism](lectures/inheritance/polymorphism.pdf)
+: *Reading*: Liang 11.7-11.9 (polymorphism)
 
 Nov 18
-: **TBA**
+: **Review for midterm**
 
 Nov 20
-: **TBA**
+: **Midterm II**
 
 Nov 22
-: **TBA**
+: **Abstract classes**
+	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/poly2) •
+	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/poly2)
+: *Handouts:* [Abstract classes](lectures/inheritance/abstract-classes.pdf)
 
 Nov 25
-: **TBA**
+: **Interfaces**
 
 Nov 27
 : **Thanksgiving break**
