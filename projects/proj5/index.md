@@ -325,7 +325,7 @@ Write a main method to let the user pick which test they want to see:
    - SpinBug
    - RoutineBug (using the routine from above)
    - SquareBug
-   - ImitationBug (imitating a RoutineBug) [<i>earlier this said "imitating a SquareBug," which is also fine, but that's not a test case I asked you to write</i>]
+   - ImitationBug (imitating a RoutineBug) 
    - MirrorBug (mirroring a SquareBug)
    - CongaBug (3-bug conga line)
 
