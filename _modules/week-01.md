@@ -216,13 +216,15 @@ Nov 29
 : **Thanksgiving break**
 
 Dec 2
-: **TBA**
+: **Running time of algorithms**
+: *Handouts:* [Running time](lectures/big-oh/bigoh-handout.pdf)
 
 Dec 4
-: **TBA**
+: **Lab 11**
 
 Dec 6
-: **TBA**
+: **Running time of algorithms**
+: *Handouts:* [Big-O notation and problems](lectures/big-oh/big-oh-problems.pdf)
 
 Dec 9
 : **TBA**
