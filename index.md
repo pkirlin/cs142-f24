@@ -43,6 +43,11 @@ Fall 2024
 - [Canvas page](https://rhodes.instructure.com/courses/7368): Use for grades, online assignment submissions, and assignment solutions.
 - [Syllabus](syllabus/syllabus-142-f24.pdf) and [additional policies](syllabus/additional-policies.pdf).
 - Tutoring hours: *(Begins Sep 8)* Sunday through Thursday evenings, 5-10pm, Briggs 001 
+- <font color=red>*Final Exam Times*:</font> You may take the final at any of the following dates/times.  You do not need to tell me in advance which one you are coming to; just show up.  **The location for all three times is the Spence Wilson Room in Briggs.**
+  - Friday, December 13, 1 PM
+  - Monday, December 16, 8:30 AM
+  - Tuesday, December 17, 1 PM
+
 
 ## Resources
 - Textbooks and tutorials: *Introduction to Java* by Liang (textbook), 
