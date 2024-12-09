@@ -208,6 +208,7 @@ Nov 25
 	: [10am code](https://github.com/pkirlin/cs142-f24-inclass/blob/10am/src/interfaces1) •
 	[11am code](https://github.com/pkirlin/cs142-f24-inclass/blob/11am/src/interfaces1)
 : *Handouts:* [Interfaces](lectures/inheritance/interfaces-handout.pdf)
+: *Project 6 assigned:* [Project 6](projects/proj6), due Dec 11
 
 Nov 27
 : **Thanksgiving break**

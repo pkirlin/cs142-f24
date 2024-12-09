@@ -42,8 +42,8 @@ Fall 2024
 - Office hours: Mon 1-2:30, Tue 12:30-2, Wed 2-3, Thu 2-3:30.  Also available by appointment.
 - [Canvas page](https://rhodes.instructure.com/courses/7368): Use for grades, online assignment submissions, and assignment solutions.
 - [Syllabus](syllabus/syllabus-142-f24.pdf) and [additional policies](syllabus/additional-policies.pdf).
-- Tutoring hours: *(Begins Sep 8)* Sunday through Thursday evenings, 5-10pm, Briggs 001 
-- <font color=red>*Final Exam Times*:</font> You may take the final at any of the following dates/times.  You do not need to tell me in advance which one you are coming to; just show up.  **The location for all three times is the Spence Wilson Room in Briggs.**
+- Tutoring hours:  Sunday through Thursday evenings, 5-10pm, Briggs 001 
+- <font color=red><B>Final Exam Times:</b></font> You may take the final at any of the following dates/times.  You do not need to tell me in advance which one you are coming to; just show up.  **The location for all three times is the Spence Wilson Room in Briggs.**
   - Friday, December 13, 1 PM
   - Monday, December 16, 8:30 AM
   - Tuesday, December 17, 1 PM
