@@ -228,7 +228,8 @@ Dec 6
 : *Handouts:* [Big-O notation and problems](lectures/big-oh/big-oh-problems.pdf)
 
 Dec 9
-: **TBA**
+: **Semester wrapup, review**
+: *Handouts:* [Final practice problems](lectures/practice/final-prac-problems-f24.pdf)
 
 Dec 11
-: **TBA**
+: **Project work time**
